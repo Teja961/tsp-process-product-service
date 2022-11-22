@@ -1,0 +1,13 @@
+server:
+  port: 9092
+spring:
+  application:
+    name: Product Micro service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: tsp_shopping_1
+
+
+
